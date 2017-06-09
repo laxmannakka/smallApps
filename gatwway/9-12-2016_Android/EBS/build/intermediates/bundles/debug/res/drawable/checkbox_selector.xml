@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ic_save_check" android:state_checked="true"/> <!-- checked -->
+    <item android:drawable="@drawable/ic_save_uncheck" android:state_checked="false"/> <!-- unchecked -->
+
+</selector><!-- From: file:/D:/data/EBS/BackUp/Phase-2/EBS-09-24-2015(R3)/TestKit/EBS_Live/res/drawable/checkbox_selector.xml -->

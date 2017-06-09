@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Screen1</string>
+
+    <!--for screen one-->
+
+    <string name="performance">Performance</string>
+    <string name="text">In Class</string>
+    <string name="done">DONE</string>
+    <string name="q_details">QUESION WISE DETAILS</string>
+    <string name="global">Global</string>
+
+    <!--for screen 2 -->
+
+      <string name="description">
+    Lorem ipsim is simply dummy text of the printingand typesetting industry.Lorem ipsum has been the industry standard dummy text ever since the 1500s,when an unknown printer took a gallay of type and scrambeld it to make a type special men book it has survived not only five centuries ,but also the leap into electronic typesetting,remainingessencially.
+    </string>
+    <string name="assignment_text">Assignment Name</string>
+    <string name="deadline">Deadline</string>
+    <string name="date_text">Nov 11th\,</string>
+    <string name="time_text">11:20 min</string>
+    <string name="desc">Description</string>
+    <string name="description1">Lorem ipsim is simply dummy text of the printingand</string>
+    <string name="description2">Lorem ipsim is simply dummy text of</string>
+
+    <!--    for screen 3  -->
+    <string name="resources">Resorces</string>
+    <string name="textdate">Wed,24th August,2016</string>
+    <string name="data">Mole Concept and stiocheimetry..</string>
+    <string name="completed">Completed</string>
+    <string name="margkstext">74/82</string>
+
+    <string name="images">Images</string>
+    <string name="assignment">Assignment</string>
+    <string name="assesment">Assesment</string>
+    <string name="audiovisuals">Audio Visuals</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="save_btn_text">SAVE</string>
+    <string name="upload_btn_text">UPLOAD</string>
+
+</resources>

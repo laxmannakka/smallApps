@@ -1,0 +1,11 @@
+<script type="text/javascript">
+    function showAndroidToast(toastmsg) {
+    Android.showToast(toastmsg);
+    }
+    function showAndroidDialog(dialogmsg) {
+    Android.showDialog(dialogmsg);
+    }
+    function moveToScreenTwo() {
+    Android.moveIntent();
+    }
+</script>

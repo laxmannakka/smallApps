@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <SeekBar
+        android:id="@+id/customSeekBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:max="200"
+        android:progress="40"
+        android:thumb="@drawable/seek_bar_thumb_shape"
+        android:rotation="270"
+        android:progressDrawable="@drawable/progressbar"/>
+
+</LinearLayout>

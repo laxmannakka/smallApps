@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/EBS/assets"/><source path="/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/EBS/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/EBS/build-types/release/assets"/></dataSet></merger>

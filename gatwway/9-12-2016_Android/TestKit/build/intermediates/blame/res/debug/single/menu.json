@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/menu/payment_success.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/res/menu/payment_success.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/menu/payment_failure.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/menu/payment_failure.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/menu/menu_idle_time_out.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/menu/menu_idle_time_out.xml"
+    }
+]

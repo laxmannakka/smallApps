@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/jars/libs/ebs.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf0d581506b34335a1a4fac44795a2e348734825">
+        <dex dex="/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/pre-dexed/debug/ebs_23b443a0c0cdb3f0d14e338e7dab375145b72b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/jars/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8cad34a1d9e891992e9bcf06f06f0596fa936471">
+        <dex dex="/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/pre-dexed/debug/volley_41a2b596c2382ebc314471910d6a96d690cd3d0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a033336a45e46144ad3248dad4b45ce0c1d05583">
+        <dex dex="/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/pre-dexed/debug/TestKit-EBS-unspecified_3841bf2cdd4df6432a5bda1aa6ce833e71520174.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/libs/android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/pre-dexed/debug/android-support-v4_15740ec198e860e716135bfa0e2e2ea6d19a7707.jar" />
+    </item>
+
+</items>

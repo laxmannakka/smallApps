@@ -1,0 +1,34 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 8
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "de.htw.colorbattle"
+        minSdkVersion 8
+        targetSdkVersion 8
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_5
+            targetCompatibility JavaVersion.VERSION_1_5
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+android {
+    
+    compileOptions.encoding = 'ISO-8859-1'
+}
+
+dependencies {
+    compile project(':colorBattle')
+    compile 'com.google.code.gson:gson:2.2.2'
+    compile files('libs/gdx-backend-android-sources.jar')
+    compile files('libs/gdx-backend-android.jar')
+}

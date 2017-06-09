@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/list_row.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/list_row.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/layout_cashcard.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/layout_cashcard.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/layout_netbanking.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/layout_netbanking.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/inflater_amount.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/inflater_amount.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/layout_img_cvv.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/layout_img_cvv.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/adapter_customalert.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/adapter_customalert.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/list_storedcard_popup.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/list_storedcard_popup.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/layout_debitcard.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/layout_debitcard.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/activity_buy_product.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/res/layout/activity_buy_product.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/list_storedcard.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/list_storedcard.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/activity_test.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/res/layout/activity_test.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/list_popup.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/list_popup.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/payment_detail2.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/payment_detail2.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/adapter_item_major_bank.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/adapter_item_major_bank.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/activity_payment.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/activity_payment.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/activity_payment_failure.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/activity_payment_failure.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/layout_storedcard.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/layout_storedcard.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/item_major.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/item_major.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/adapter_major_banks.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/adapter_major_banks.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/activity_idle_time_out.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/activity_idle_time_out.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/inflate_discurency.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/inflate_discurency.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/list_group.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/list_group.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/layout_creditcard.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/layout_creditcard.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/tes_transaction_details.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/tes_transaction_details.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/activity_payment_success.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/res/layout/activity_payment_success.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/layout/activity_payment_details.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/layout/activity_payment_details.xml"
+    }
+]

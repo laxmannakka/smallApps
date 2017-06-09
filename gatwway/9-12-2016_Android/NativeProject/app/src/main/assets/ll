@@ -1,0 +1,19 @@
+<html>
+<head>
+    <script type="text/javascript">
+
+    function clickEvent(){
+  window.JavaAndJavascriptBridge.showData("I'm from javascript");
+ }
+ function callFromJava(data){
+ document.getElementById('label').innerHTML = data;
+
+ }
+</script>
+</head>
+<body>
+<button onClick="clickEvent()">Html Btn.. Click Me!</button>
+<br/>
+<label id="label"></label>
+</body>
+</html>

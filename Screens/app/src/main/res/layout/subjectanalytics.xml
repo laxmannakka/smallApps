@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/resource_relativelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.05"
+        android:layout_margin="@dimen/margin_10">
+
+        <ImageView
+            android:id="@+id/school_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_4"
+            android:src="@drawable/school_building" />
+
+        <TextView
+            android:id="@+id/resource_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:layout_toEndOf="@+id/school_image"
+            android:layout_toRightOf="@+id/school_image"
+            android:text="@string/resources"
+            android:textSize="@dimen/text_size_25" />
+
+        <TextView
+            android:layout_width="@dimen/margin_120"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/resource_txt"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:layout_toRightOf="@+id/school_image"
+            android:text="@string/data" />
+
+        <TextView
+            android:id="@+id/date_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_marginRight="@dimen/margin_10"
+            android:text="@string/textdate" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_toLeftOf="@+id/date_textview"
+            android:src="@drawable/left" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_toRightOf="@+id/date_textview"
+            android:src="@drawable/right" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/performance_relativelayout"
+        android:layout_width="match_parent"
+        android:layout_weight="0.95"
+        android:layout_height="wrap_content"
+        >
+
+        <SeekBar
+            android:id="@+id/seekbar"
+            android:layout_width="@dimen/margin_150"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="@dimen/margin_50"
+            android:progressDrawable="@drawable/seek_bar_track_shape"
+            android:rotation="@integer/progress_90"
+            android:thumb="@drawable/seek_bar_thumb_shape"
+            android:verticalScrollbarPosition="right" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_50"
+            android:layout_marginStart="@dimen/margin_50"
+            android:layout_toLeftOf="@+id/seekbar"
+            android:orientation="horizontal"
+            android:id="@+id/linear_layout"
+            android:weightSum="4">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/image2" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/audiovisuals"
+                    android:textColor="@color/skyblue"
+                    android:textSize="@dimen/text_size_15" />
+
+                <TextView
+                    android:id="@+id/audiovisuals_markstext"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/margkstext"
+                    android:textSize="@dimen/text_size_20" />
+
+                <TextView
+                    android:id="@+id/audiovisuals_status"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/completed"
+                    android:textSize="@dimen/text_size_15" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/image2" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/assesment"
+                    android:textColor="@color/pink"
+                    android:textSize="@dimen/text_size_15" />
+
+                <TextView
+                    android:id="@+id/assessment_markstext"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/margkstext"
+                    android:textSize="@dimen/text_size_20" />
+
+                a<TextView
+                    android:id="@+id/assessment_status_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/completed"
+                    android:textSize="@dimen/text_size_15" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/image2" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/assignment"
+                    android:textColor="@color/greenlight"
+                    android:textSize="@dimen/text_size_15" />
+
+                <TextView
+                    android:id="@+id/text_assignment_marks"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/margkstext"
+                    android:textSize="@dimen/text_size_20" />
+
+                <TextView
+                    android:id="@+id/text_assignment_status"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/completed"
+                    android:textSize="@dimen/text_size_15" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/image2" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/images"
+                    android:textColor="@color/lightlime"
+                    android:textSize="@dimen/text_size_15" />
+
+                <TextView
+                    android:id="@+id/images_marks_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/margkstext"
+                    android:textSize="@dimen/text_size_20" />
+
+                <TextView
+                    android:id="@+id/images_status_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/completed"
+                    android:textSize="@dimen/text_size_15" />
+
+            </LinearLayout>
+        </LinearLayout>
+        <SeekBar
+            android:id="@+id/horizontal_seekbar"
+            android:layout_below="@+id/linear_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_100"
+            android:layout_marginRight="@dimen/margin_100"
+            android:max="@integer/maximum"
+            android:layout_marginTop="@dimen/margin_30"
+            android:progress="@integer/progress_65"
+            android:progressTint="@color/leafgreen"
+            android:thumbTint="@color/leafgreen"
+            />
+    </RelativeLayout>
+
+</LinearLayout>

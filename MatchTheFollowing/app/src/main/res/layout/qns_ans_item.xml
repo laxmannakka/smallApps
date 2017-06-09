@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="false"
+    android:descendantFocusability="blocksDescendants"
+    android:focusable="false"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/qns_txt"
+        android:gravity="center"
+
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@drawable/backroundview"
+         android:layout_toLeftOf="@+id/radio_button"
+        android:text="abc"/>
+
+    <RadioButton
+
+        android:id="@+id/radio_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+</RelativeLayout>

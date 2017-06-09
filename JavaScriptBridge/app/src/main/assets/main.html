@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <script language="javascript">
+
+  function diplayJavaMsg(msg){
+
+  alert(msg);
+
+  }
+
+  function callTojavaFn(){
+
+  var msg = "Calling from Java Script";
+
+  JsHandler.jsFnCall(msg);
+
+  }
+
+  function myFunction() {
+    return JsHandler.fromjavaScript("laxman");
+    }
+
+  </script>
+
+</head>
+
+<body>
+
+<input type="button" onClick="callTojavaFn()" value="Call Java Fn">
+<input type="button" onClick="myFunction()" value="Call myFunction">
+
+
+</body>
+
+</html>

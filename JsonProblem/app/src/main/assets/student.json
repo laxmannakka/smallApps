@@ -1,0 +1,29 @@
+
+{
+  "studentdetails": [
+    {
+      "id": "zyc_51",
+      "name": "Laxman",
+      "roolNo": 1
+
+    },
+    {
+      "id": "efe_11",
+      "name": "nadim",
+      "roolNo":2
+
+    },
+    {
+      "id": "cdf_12",
+      "name": "suresh",
+      "roolNo": 3
+
+    },
+    {
+      "id": "def_45",
+      "name": "mahesh",
+      "roolNo": 4
+
+    }
+  ]
+}

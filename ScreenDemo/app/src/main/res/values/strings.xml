@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScreenDemo</string>
+    <string name="performance">Performance</string>
+    <string name="text">In Class</string>
+    <string name ="description">
+ Lorem ipsim is simply dummy text of the printingand typesetting industry.Lorem ipsum has been the industry standard dummy text ever since the 1500s,when an unknown printer took a gallay of type and scrambeld it to make a type special men book it has survived not only five centuries ,but also the leap into electronic typesetting,remainingessencially.
+    </string>
+    <string name="done">DONE</string>
+    <string name="q_details">QUESION WISE DETAILS</string>
+    <string name="global">Global</string>
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+   >
+
+    <TextView
+        android:id="@+id/performance_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/performance"
+        android:textColor="@color/block"
+        android:textSize="@dimen/text_size_25" />
+
+    <TextView
+        android:id="@+id/class_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/performance_textview"
+        android:layout_marginTop="@dimen/margin_20"
+        android:text="@string/text"
+        android:textColor="@color/block" />
+
+    <ProgressBar
+        android:id="@+id/attendance_progress"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/performance_textview"
+        android:layout_gravity="center"
+        android:layout_marginLeft="@dimen/margin_20"
+        android:layout_marginRight="@dimen/margin_20"
+        android:layout_marginTop="@dimen/margin_20"
+        android:layout_toRightOf="@+id/class_textview"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:max="@integer/maximum"
+        android:progress="@integer/progress_90"
+        android:progressDrawable="@drawable/progressbar2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/class_textview"
+        android:layout_marginTop="@dimen/margin_50"
+        android:text="@string/global"
+        android:textColor="@color/block" />
+
+    <ProgressBar
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/attendance_progress"
+        android:layout_gravity="center"
+        android:layout_marginLeft="@dimen/margin_20"
+        android:layout_marginRight="@dimen/margin_20"
+        android:layout_marginTop="@dimen/margin_50"
+        android:layout_toRightOf="@+id/class_textview"
+        android:max="@integer/maximum"
+        android:progress="@integer/progress_65"
+        android:progressDrawable="@drawable/progressbar" />
+
+    <TextView
+        android:id="@+id/question_wise_details_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/q_details"
+        android:textColor="@color/springgreen"
+        android:textSize="@dimen/margin_20" />
+
+    <Button
+        android:id="@+id/done_btn"
+        android:layout_width="@dimen/margin_120"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@color/springgreen"
+        android:text="@string/done"
+        android:textColor="@color/white" />
+</RelativeLayout>

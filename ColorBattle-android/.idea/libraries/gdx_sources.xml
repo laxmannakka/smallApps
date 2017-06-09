@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gdx-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/colorBattle/libs/gdx-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

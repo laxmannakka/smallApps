@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 57,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 52,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 52,
+                        "endOffset": 161
+                    }
+                }
+            }
+        ]
+    }
+]

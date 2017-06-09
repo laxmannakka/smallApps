@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/list_row_bg.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/list_row_bg.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/button_shape.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/button_shape.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/img_cvv_old.jpg",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/img_cvv_old.jpg"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/bg_design.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/bg_design.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/spinner_background_holo_light.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/spinner_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/list_selector_holo_light.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/dropbtn.png",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/dropbtn.png"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/customradio_selector.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/customradio_selector.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/btn_close.png",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/btn_close.png"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/list_row_bg_hover.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/list_row_bg_hover.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/edit_text_block_background.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/edit_text_block_background.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/btn_radio_holo_light.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/btn_radio_holo_light.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/checkbox_selector.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/checkbox_selector.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/item_background_holo_light.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/list_selector_background_transition_holo_light.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/img_cvv.png",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/img_cvv.png"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/header_background.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/header_background.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/arrow.png",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/arrow.png"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/spinner_selector.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/spinner_selector.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/container_dropshadow.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/container_dropshadow.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/list_row_selector.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/list_row_selector.xml"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/btn_dropdown_normal.9.png",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/btn_dropdown_normal.9.png"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/img_cvv_oldgif.gif",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/img_cvv_oldgif.gif"
+    },
+    {
+        "merged": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/res/merged/debug/drawable/activated_background_holo_light.xml",
+        "source": "/home/next/Desktop/neXTerpold/PaymentGateway/9-12-2016_Android/TestKit/build/intermediates/exploded-aar/TestKit/EBS/unspecified/res/drawable/activated_background_holo_light.xml"
+    }
+]

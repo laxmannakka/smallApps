@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/grey_bg">
+    
+    <LinearLayout
+        android:id="@+id/stored_card_layout"
+        android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+         >
+        
+    </LinearLayout>
+</RelativeLayout><!-- From: file:/D:/data/EBS/BackUp/Phase-2/EBS-09-24-2015(R3)/TestKit/EBS_Live/res/layout/layout_storedcard.xml --><!-- From: file:/D:/data/EBS/BackUp/Phase-2/EBS-09-24-2015(R3)/TestKit/EBS_Live/build/intermediates/bundles/debug/res/layout/layout_storedcard.xml -->
